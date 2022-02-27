@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors());
 
 mongoose.connect(
-  "mongodb+srv://user123:pass123@cluster0.vc99n.mongodb.net/Dash?retryWrites=true&w=majority",
+  "mongodb+srv://<user>:<password>@cluster0.vc99n.mongodb.net/Dash?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
   }
