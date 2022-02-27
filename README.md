@@ -35,13 +35,13 @@ It is an admin dashboard panel that extracts data provided in a mongoDB database
 >
 > The charts were created using recharts which provide reactive and animated graphs and charts with tooltip and wide range of customization.
 
-![alt text](https://imgur.com/Il34WtQ)
+![alt text](1.PNG)
 
-![alt text](https://imgur.com/XY5HF13)
+![alt text](2.PNG)
 
-![alt text](https://imgur.com/tFhcX32)
+![alt text](3.PNG)
 
-![alt text](https://imgur.com/HmvEkzz)
+![alt text](5.PNG)
 
 # **_Learnings_**
 
